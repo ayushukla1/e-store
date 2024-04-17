@@ -68,3 +68,6 @@ instance/
 # Scrapy stuff:
 .sc
 
+
+# virtual environment
+env_name/
